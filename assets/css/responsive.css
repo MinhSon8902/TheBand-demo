@@ -1,4 +1,4 @@
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
   .s-mt-8 {
     margin-top: 8px !important;
   }
@@ -49,13 +49,18 @@
   }
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
   .btn {
     padding: 16px 16px;
   }
   .contact-form .form-control {
     padding: 15px;
+    font-size: 16px;
   }
+  contact-submit-btn {
+    font-size: 16px;
+  }
+
   .socials-list {
     font-size: 48px !important;
   }
@@ -74,7 +79,7 @@
   }
 }
 
-@media (min-width: 740px) and (max-width: 1023px) {
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
   .contact-info {
     line-height: 2;
   }
