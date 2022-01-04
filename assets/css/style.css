@@ -273,6 +273,11 @@ html {
   margin-top: 40px;
 }
 
+.month {
+  min-width: 80px;
+  display: inline-block;
+}
+
 .tickers-list li {
   font-size: 15px;
   padding: 11px 16px;
